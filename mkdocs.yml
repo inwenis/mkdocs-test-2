@@ -2,3 +2,7 @@ site_name: MkLorum
 nav:
   - Home: index.md
   - About: about.md
+extra:
+  analytics:
+    provider: google
+    property: G-7KET762HEK
